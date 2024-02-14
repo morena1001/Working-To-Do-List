@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/morena1001/Working-To-Do-List.git"
+    "start": "json-server --watch db.json"
   },
   "keywords": [],
   "author": "",
