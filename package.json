@@ -2,15 +2,14 @@
   "name": "working-to-do-list",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server data.json"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "debug": "^4.3.4",
-    "json-server": "^1.0.0-alpha.23"
+    "json-server": "^0.16.2"
   }
 }
