@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prestart": "chmod +x node_modules/.bin/json-server",
     "start": "json-server data.json"
   },
   "keywords": [],
